@@ -27,4 +27,6 @@ about:
         external: false
 
 # Build settings 
-markdown: kramdown 
+markdown: kramdown
+kramdown:
+    math_engine: mathjax 
