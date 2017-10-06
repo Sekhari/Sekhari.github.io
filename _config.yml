@@ -6,9 +6,8 @@ favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
 google_analytics: # google analytics id
 disqus_shortname: # disqus_shortname for disqus comment system
 
-markdown: kramdown # supports latex rendering using mathjax
-kramdown:
-    math_engine: mathjax
+# Build settings 
+markdown: maruku 
     
 # Content for about page.
 # Each paragraph will be a <p> tag which is inserted to about
