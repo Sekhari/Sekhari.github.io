@@ -27,4 +27,4 @@ about:
         external: false
 
 # Build settings 
-markdown: maruku 
+markdown: kramdown 
