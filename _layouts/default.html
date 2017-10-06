@@ -21,6 +21,12 @@
     <!-- Google Analytics -->
     {% include google-analytics.html %}
     {% endif %}
+    
+    {% if page.use_math %}
+    <!--Mathjax support-->
+      {% include mathjax_support %}
+    {% endif %}
+    
   </head>
   <body>
 
