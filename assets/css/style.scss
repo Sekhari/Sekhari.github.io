@@ -495,7 +495,7 @@ img {
 @media (min-width: 769px) {
   .index-wrapper {
     position: absolute;
-    top: 40%;
+    top: 10%;
     right: 0;
     left: 0;
     margin-right: auto;
@@ -523,6 +523,58 @@ img {
   .about-wrapper{
     position: absolute;
     top: 40%;
+    right: 0;
+    left: 0;
+    padding-top: 0;
+  }
+}
+
+
+/* content */
+.content-wrapper div {
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 24px;
+  width: 85%;
+}
+
+@media (min-width: 600px) {
+  .content-wrapper {
+    padding-top: 66px;
+    width: 80%;
+  }
+}
+
+@media (min-width: 769px) {
+  .content-wrapper{
+    position: absolute;
+    top: 15%;
+    right: 0;
+    left: 5%;
+    padding-top: 0;
+  }
+}
+
+
+/* content */
+.news-wrapper div {
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 24px;
+  width: 85%;
+}
+
+@media (min-width: 600px) {
+  .news-wrapper {
+    padding-top: 66px;
+    width: 80%;
+  }
+}
+
+@media (min-width: 769px) {
+  .news-wrapper{
+    position: relative;
+    top: 5%;
     right: 0;
     left: 0;
     padding-top: 0;
