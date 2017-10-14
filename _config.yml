@@ -1,8 +1,11 @@
 title: Ayush Sekhari 
 description: Personal website for Ayush Sekhari 
 url: # site url
-avatar: # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
-favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
+avatar: /assets/img/avatar.jpg # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
+favicon: /assets/img/favicon.ico # path/to/favicon for site. e.g. /assets/img/favicon.ico
+backimage_small: /assets/img/backimage_small.jpg # path/to/back_image for index page. e.g. /assets/img/avatar.jpg
+backimage_mid: /assets/img/backimage_mid.png # path/to/back_image for index page. e.g. /assets/img/avatar.jpg
+backimage_large: /assets/img/backimage_large.jpg # path/to/back_image for index page. e.g. /assets/img/avatar.jpg
 google_analytics: # google analytics id
 disqus_shortname: ayusek # disqus_shortname for disqus comment system
     
